@@ -10,10 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PDFViewer">
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
+            android:name=".BMCDemonstration"
             android:label="@string/app_name"
-            android:theme="@style/Theme.PDFViewer.NoActionBar">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
